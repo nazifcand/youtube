@@ -1,0 +1,8 @@
+{
+  "name": "İsim",
+  "surname": "Soyisim",
+  "email": "E-post",
+  "phone": "Telefon",
+  "content": "İçerik",
+  "successText": "kaydetmis oldugunuz {{phone}} telefon numarasina basariyla kod gonderildi."
+}
